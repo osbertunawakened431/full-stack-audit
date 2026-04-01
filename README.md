@@ -92,7 +92,7 @@ More skills coming soon: `ux-audit`, `security-audit`, `web3-security-audit`.
 
 ## Author
 
-Created by [Jalaaldeen](https://x.com/jalaal_tweets) — builder of Wardex, ZakatChain, and open-source AI tooling for founders.
+Created by [Jalaaldeen](https://x.com/jalaal_tweets) — builder of JustJapa, Wardex, ZakatChain, and open-source AI tooling for founders.
 
 ## License
 
